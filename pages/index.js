@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Se Cristo vos libertar, verdadeiramente sereis livres. </h1>
+    return <h1>O amor tudo sofre, tudo crê, tudo espera, tudo suporta. </h1>
 }
 
 export default Home;
